@@ -1,0 +1,7 @@
+PervasiveClientDriver for FluentNHibernate
+====
+
+Requirements
+1. Pervasive Client Driver library loaded (v10.0+)
+2. Reference: Pervasive.Data.Common, Pervasive.Data.SqlClient
+3. Enjoy Pervasive support in NHibernate!
